@@ -1,0 +1,52 @@
+[
+  {
+    "id": "123456789",
+    "cover_image": "https://i.ibb.co/wdYL3Zc/blog-notes-concept-with-wooden-blocks-pen-black-notebook-top-view.jpg",
+    "title": "The Secret Garden",
+    "author": "Jane Doe",
+    "author_img": "https://example.com/author1.jpg",
+    "posted_date": "March 13, 2024",
+    "reading_time": 15,
+    "hashtags": ["#Gardening", "#Nature", "#ChildrensBooks"]
+  },
+  {
+    "id": "987654321",
+    "cover_image": "https://i.ibb.co/wdYL3Zc/blog-notes-concept-with-wooden-blocks-pen-black-notebook-top-view.jpg",
+    "title": "Beyond the Stars",
+    "author": "John Smith",
+    "author_img": "https://example.com/author2.jpg",
+    "posted_date": "March 12, 2024",
+    "reading_time": 20,
+    "hashtags": ["#ScienceFiction", "#Adventure", "#Space"]
+  },
+  {
+    "id": "246810123",
+    "cover_image": "https://i.ibb.co/wdYL3Zc/blog-notes-concept-with-wooden-blocks-pen-black-notebook-top-view.jpg",
+    "title": "The Art of Cooking",
+    "author": "Emily Johnson",
+    "author_img": "https://example.com/author3.jpg",
+    "posted_date": "March 11, 2024",
+    "reading_time": 30,
+    "hashtags": ["#Cooking", "#Recipes", "#Foodies"]
+  },
+  {
+    "id": "135791357",
+    "cover_image": "https://i.ibb.co/wdYL3Zc/blog-notes-concept-with-wooden-blocks-pen-black-notebook-top-view.jpg",
+    "title": "Lost in Translation",
+    "author": "Michael Brown",
+    "author_img": "https://example.com/author4.jpg",
+    "posted_date": "March 10, 2024",
+    "reading_time": 25,
+    "hashtags": ["#Languages", "#Travel", "#Culture"]
+  },
+  {
+    "id": "112233445",
+    "cover_image": "https://i.ibb.co/wdYL3Zc/blog-notes-concept-with-wooden-blocks-pen-black-notebook-top-view.jpg",
+    "title": "The Mystery of Oakwood Manor",
+    "author": "Sarah Williams",
+    "author_img": "https://example.com/author5.jpg",
+    "posted_date": "March 9, 2024",
+    "reading_time": 18,
+    "hashtags": ["#Mystery", "#Detective", "#Thriller"]
+  }
+]
